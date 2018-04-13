@@ -3,7 +3,7 @@
     "frameworks": "Arduino",
     "keywords": "gpio,analogWrite,digitalread,digitalwrite,replacement",
     "description": "A C++ reworking of the digital IO calls for Arduino (Faster reads and writes!)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://github.com/hippymulehead/FastDigitalPin",
     "authors":
     [
