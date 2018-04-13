@@ -1,5 +1,5 @@
 {
-    "name": "RAGPIO",
+    "name": "FastDigitalPin",
     "frameworks": "Arduino",
     "keywords": "gpio,analogWrite,digitalread,digitalwrite,replacement",
     "description": "A C++ reworking of the digital IO calls for Arduino (Faster reads and writes!)",
